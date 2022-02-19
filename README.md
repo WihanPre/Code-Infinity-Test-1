@@ -16,3 +16,12 @@ Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+Hour log:
+      15:00-17:00 14th
+      20:00-00:00 15th
+      20:00-00:00 16th
+      20:30-22:30 17th
+      07:00-08:00 18th
+      10:00-12:00 19th
+*Includes study time learning php.
